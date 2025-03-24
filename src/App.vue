@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import App9 from '../CONDICIONALES/App9.vue';
+// import App9 from '../CONDICIONALES/App9.vue';
+import Horario from '../CONDICIONALES/Horario.vue';
 
 // import AppCard from './components/AppCard.vue';
 // import Card from './components/AppCard.vue';
@@ -16,7 +17,8 @@ import App9 from '../CONDICIONALES/App9.vue';
     <!-- <AppCard/> -->
     <!-- <AppCard/> -->
     <!-- <Equipo/> -->
-     <App9/>
+     <!-- <App9/> -->
+      <Horario/>
 
   </div>
 </template>
