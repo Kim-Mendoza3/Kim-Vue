@@ -1,7 +1,9 @@
 <script setup lang="ts">
+import App9 from '../CONDICIONALES/App9.vue';
+
 // import AppCard from './components/AppCard.vue';
 // import Card from './components/AppCard.vue';
-import Equipo from './components/equipo.vue';
+// import Equipo from './components/equipo.vue';
 
 </script>
 
@@ -13,7 +15,8 @@ import Equipo from './components/equipo.vue';
     </div>
     <!-- <AppCard/> -->
     <!-- <AppCard/> -->
-    <Equipo/>
+    <!-- <Equipo/> -->
+     <App9/>
 
   </div>
 </template>
