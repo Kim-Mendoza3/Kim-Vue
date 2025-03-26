@@ -1,5 +1,7 @@
 <script setup lang="ts">
-// import App9 from '../CONDICIONALES/App9.vue';
+import App9 from '../CONDICIONALES/App9.vue';
+// Importamos el componente "Horario" desde la carpeta "CONDICIONALES"
+// Esto permite utilizar el componente en este archivo.
 import Horario from '../CONDICIONALES/Horario.vue';
 
 // import AppCard from './components/AppCard.vue';
@@ -17,8 +19,8 @@ import Horario from '../CONDICIONALES/Horario.vue';
     <!-- <AppCard/> -->
     <!-- <AppCard/> -->
     <!-- <Equipo/> -->
-     <!-- <App9/> -->
-      <Horario/>
+     <App9/> 
+      <!-- <Horario/>     Se llama al componente "Horario", que se mostrará en la interfaz -->
 
   </div>
 </template>
